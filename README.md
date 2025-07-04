@@ -6,7 +6,7 @@
 🔧 Engineering graduate in **Mechanical Engineering**  
 💼 Previous experience as **Administration Associate** and **Assistant Executive - Customer Support**  
 📈 Passionate about **Artificial Intelligence**, **Cloud Computing**, and **Data Science**  
-🌱 Currently learning: Cloud Deployment, MLOps, and Generative AI  
+🌱 Currently learning: Cloud Deployment, NLP and Generative AI  
 
 ---
 
@@ -39,14 +39,14 @@ An interactive Dungeons & Dragons-style AI system powered by NLP and command par
 Predicts future values based on synthetic time series data using neural networks.  
 📈 Includes training visualizations and model evaluation.  
 📦 Technologies: Python, PyTorch, Matplotlib  
-🔗 [View Project](#)
+🔗 [View Project](https://github.com/Riyazahmed20/Time-Series-Forecasting-with-PyTorch)
 
 ---
 
-#### 🤖 CNN Gender Prediction  
+#### 🤖 CNN Image classification  
 Trains a CNN on facial image data to classify gender.  
 📦 Technologies: Python, TensorFlow/Keras, OpenCV  
-🔗 [View Project](#)
+🔗 [View Project](https://github.com/Riyazahmed20/Image-Classification-with-Convolutional-Neural-Networks)
 
 ---
 
@@ -55,10 +55,4 @@ Trains a CNN on facial image data to classify gender.
 - 📧 Email: [riyazudduinahmed970@gmail.com](mailto:riyazudduinahmed970@gmail.com)
 - 💼 [LinkedIn][(https://www.linkedin.com/in/mohd-riyazuddin-ahmed-3266ab10b/)]
 
----
-
-### 📌 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riyazuddinahmed&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riyazuddinahmed&layout=compact&theme=radical)
 
