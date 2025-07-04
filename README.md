@@ -52,7 +52,7 @@ Trains a CNN on facial image data to classify gender.
 
 ### 📫 Reach Me At:
 
-- 📧 Email: [riyazudduinahmed970@gmail.com](mailto:riyazudduinahmed970@gmail.com)
+- 📧 Email: [riyazuddinahmed970@gmail.com](mailto:riyazuddinahmed970@gmail.com)
 - 💼 [LinkedIn][(https://www.linkedin.com/in/mohd-riyazuddin-ahmed-3266ab10b/)]
 
 
