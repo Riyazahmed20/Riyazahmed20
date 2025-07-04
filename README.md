@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Riyazuddin Ahmed</h1>
+<h1 align="center">👋 Hi, I'm Mohd. Riyazuddin Ahmed</h1>
 
 <p align="center">&nbsp;</p>
 
