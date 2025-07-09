@@ -31,7 +31,7 @@
   <a href="https://www.docker.com/">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   </a>
-  <a href="https://github.com/">
+  <a href="[https://github.com/](https://github.com/Riyazahmed20)">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
