@@ -2,7 +2,7 @@
 
 <p align="center">&nbsp;</p>
 
-🎓 Currently pursuing **PG-DAI** from **CDAC Guwahati**  
+🎓 Completed **PG-DAI** from **CDAC Guwahati**  
 🔧 Engineering graduate in **Mechanical Engineering**  
 💼 Previous experience as **Administration Associate** and **Assistant Executive - Customer Support**  
 📈 Passionate about **Artificial Intelligence**, **Cloud Computing**, and **Data Science**  
